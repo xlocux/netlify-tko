@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Netlify Take Over!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Contact locu@pm.me</code>
         </p>
       </main>
 
