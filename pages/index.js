@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Netlify Take Over!" />
         <p className="description">
-          Contact locu@pm.me</code>
+          Contact locu@pm.me
         </p>
       </main>
 
